@@ -1,6 +1,4 @@
-# Lab 5
 # Rabia Mohiuddin
-# CIS 41B
 # Winter 2018
 
 import os.path
