@@ -146,4 +146,5 @@ def main():
         os.system("/usr/bin/osascript -e '%s'" % (tmpl % os.getpid()))
     win.mainloop()  
     
+
 main()
